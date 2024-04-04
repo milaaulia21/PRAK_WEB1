@@ -13,10 +13,10 @@ Elemen 'a' dalam HTML digunakan untuk membuat tautan atau hyperlink ke halaman w
 ### Headings
 Headings dalam HTML digunakan untuk memberikan struktur dan hierarki pada konten sebuah halaman web. Ada enam level heading yang tersedia, dimulai dari h1 hingga h6. Dimana h1 adalah yang paling besar dan paling penting, sedangkan h6 adalah yang terkecil. 
 
-h1 : Heading level 1 digunakan untuk judul halaman. Biasanya hanya ada satu h1 dalam satu halaman web dan itu mewakili judul halaman secara keseluruhan. 
-h2 : Heading level 2 digunakan untuk judul sub-seksi yang penting. Biasanya mengikuti h1 dan memberi struktur pada sub-bagian dari halaman web.
-h3 : Heading level 3 digunakan untuk sub-judul di bawah h2. Memberikan struktur lebih lanjut pada konten dan dapat digunakan untuk menyoroti bagian-bagian penting dari sub-seksi. 
-h4, h5, h6 : Heading level 4, 5, dan 6 digunakan untuk sub-judul lebih lanjut atau bagian-bagian yang lebih spesifik dari konten. Mereka memiliki ukuran dan tingkat kepentingan yang berkurang secara berurutan. 
+1. h1 : Heading level 1 digunakan untuk judul halaman. Biasanya hanya ada satu h1 dalam satu halaman web dan itu mewakili judul halaman secara keseluruhan. 
+2. h2 : Heading level 2 digunakan untuk judul sub-seksi yang penting. Biasanya mengikuti h1 dan memberi struktur pada sub-bagian dari halaman web.
+3. h3 : Heading level 3 digunakan untuk sub-judul di bawah h2. Memberikan struktur lebih lanjut pada konten dan dapat digunakan untuk menyoroti bagian-bagian penting dari sub-seksi. 
+4. h4, h5, h6 : Heading level 4, 5, dan 6 digunakan untuk sub-judul lebih lanjut atau bagian-bagian yang lebih spesifik dari konten. Mereka memiliki ukuran dan tingkat kepentingan yang berkurang secara berurutan. 
 ### Horizontal Rules 
 Horizontal rules dalam HTML digunakan untuk membuat garis horizontal yang memisahkan konten atau bagian-bagian tertentu dari halaman web. Garis Horizontal ini dapat digunakan untuk memberikan struktur visual pada halaman, memisahkan bagian-bagian konten, atau menandai transisi antara bagian-bagian yang berbeda. 
 Elemen yang digunakan untuk membuat horizontal rules adalah 'hr'.
