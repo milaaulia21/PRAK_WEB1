@@ -50,6 +50,32 @@ Selector dalam CCS adalah cara untuk menentukan elemen HTML mana yang akan diber
    ![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/selector%20universal%20(css).PNG?raw=true)
 
 ### Colors
+Color dalam CSS, merujuk pada properti yang digunakan untuk menentukan warna teks di dalam sebuah elemen HTML. Properti ini biasanya untuk mengubah warna teks dari defaultnya (hitam) menjadi warna lain sesuai dengan preferensi desain kita. 
+
+![alt text](?raw=true)
+
+### Box Model 
+Box model dalam CSS menggambarkan cara browser menangani elemen HTML dengan memperhitungkan empat komponen utama :
+1. Content adalah bagian utama dari elemen yang berisi teks, gambar, dan lain-lain. Lebar dan tinggi content ditentukan oleh properti 'width' dan 'height'.
+2. Padding adalah area transparan di sekeliling konten yang memberikan jarak antara konten dan batas elemen. Properti 'padding' digunakan untuk mengatur ukuran padding dalam elemen. Padding tidak memiliki warna atau gaya, hanya memengaruhi ruang di sekitar konten.
+3. Border (Batas) adalah garis yang mengelilingi konten dan padding dari elemen. Properti 'border' digunakan untuk menentukan lebar, warna, dan gaya garis. Batas bisa berupa garis solid, putus-putus, bergelombang, dan gaya lainnya.
+4. Margin adalah ruang di luar elemen yang memberikan jarak antara elemen tersebut dengan elemen-elemen lain disekitarnya. Properti 'margin' digunakan untuk mengatur ukuran margin. Margin tidak memiliki warna atau gaya, hanya memengaruhi ruang di luar elemen.
+
+![alt text](?raw=true)
 
 ## JavaScript
 JavaScript adalah bahasa pemrograman yang sering digunakan untuk mengembangkan aplikasi web interaktif. Biasanya memberikan kemampuan untuk mengontrol perilaku halaman web, membuat efek animasi, memvalidasi input pengguna, berinteraksi dengan server. JavaScript sangat penting dalam pengembangan web modern karena memungkinkan pengalaman yang dinamis dan interaktif.
+### Variables
+Variabel dalam JavaScript adalah simbol yang digunakan untuk menyimpan data. Ada beberapa cara untuk mendeklarasikan variabel :
+1. 'var' : cara lama untuk mendeklarasikan variabel. Variabel yang dideklarasikan dengan 'var' memiliki lingkup fungsi, artinya hanya dapat diakses di dalam fungsi di mana itu dideklarasikan.
+
+    ![alt text](?raw=true)
+   
+2. 'let' : Memperkenalkan variabel yang dapat diinisialisasi ulang nilainya. Variabel yang dideklarasikan dengan 'let' memiliki lingkup blok yang hanya dapat diakses di dalam blok.
+
+    ![alt text](?raw=true)
+   
+3. 'const' : Mendeklarasikan variabel yang nilainya tidak dapat diubah setelah diinisialisasi. Variabel yang dideklarasikan dengan 'const' harus diinisialisasi saat deklarasi dan nilai mereka tetap tidak berubah setelahnya.
+
+    ![alt text](?raw=true)
+   
