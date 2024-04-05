@@ -69,7 +69,7 @@ JavaScript adalah bahasa pemrograman yang sering digunakan untuk mengembangkan a
 Variabel dalam JavaScript adalah simbol yang digunakan untuk menyimpan data. Ada beberapa cara untuk mendeklarasikan variabel :
 1. 'var' : cara lama untuk mendeklarasikan variabel. Variabel yang dideklarasikan dengan 'var' memiliki lingkup fungsi, artinya hanya dapat diakses di dalam fungsi di mana itu dideklarasikan.
 
-    ![alt text](?raw=true)
+    ![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/var%20(javascript).PNG?raw=true)
    
 2. 'let' : Memperkenalkan variabel yang dapat diinisialisasi ulang nilainya. Variabel yang dideklarasikan dengan 'let' memiliki lingkup blok yang hanya dapat diakses di dalam blok.
 
