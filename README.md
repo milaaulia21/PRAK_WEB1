@@ -3,8 +3,6 @@ Tugas ini dilaksanakan dalam rangka memenuhi nilai Mata Kuliah Pemrograman Web y
 ## HTML
 HTML (Hypertext Markup Language) adalah bahasa markup yang digunakan untuk membuat halaman web. Biasanya digunakan untuk mendefinisikan struktur dan tata letak konten dari sebuah halaman web, termasuk teks, gambar, hyperlink, video, dan elemen-elemen lainnya. 
 HTML bekerja dengan cara menandai elemen-elemen konten dalam dokumen dengan menggunakan tag-tag khusus. Setiap tag memiliki fungsi tertentu dalam menentukan bagaimana elemen tersebut akan ditampilkan oleh halaman web. 
-### Comment Tag
-Comment tag dalam HTML digunakan untuk menyisipkan komentar di dalam kode HTML.  Tag ini dapat membantu pengembang untuk menambahkan catatan atau keterangan yang tidak akan ditampilkan pada halaman web yang di-render oleh browser. Comment tag dimulai dengan '<!--'dan diakhiri dengan '-->'.
 ### Line Break
 Line break dalam HTML dalah cara untuk membuat teks atau konten HTML memulai baris baru menjadi beberapa baris terpisah. Line break biasanya digunakan dalam konteks seperti paragraf, teks dalam gambar, atau teks dalam elemen lain yang biasanya dianggap sebagai konten berjalan. 
 Untuk membuat line break, kita menggunakan tag 'br'. Tag 'br' tidak memiliki tag penutup karena itu adalah tag tunggal. 
@@ -14,7 +12,7 @@ Untuk membuat line break, kita menggunakan tag 'br'. Tag 'br' tidak memiliki tag
 ### Links
 Elemen 'a' dalam HTML digunakan untuk membuat tautan atau hyperlink ke halaman web lain, dokumen, atau sumber daya online lainnya menggunakan atribut 'href'. Dengan atribut tersebut, pengguna dapat mengklik teks atau gambar dan diarahkan ke URL yang ditentukan.
 
-![alt text](?raw=true)
+![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/links%20(html).PNG?raw=true)
 
 ### Headings
 Headings dalam HTML digunakan untuk memberikan struktur dan hierarki pada konten sebuah halaman web. Ada enam level heading yang tersedia, dimulai dari h1 hingga h6. Dimana h1 adalah yang paling besar dan paling penting, sedangkan h6 adalah yang terkecil. 
