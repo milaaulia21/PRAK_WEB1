@@ -47,7 +47,9 @@ Selector dalam CCS adalah cara untuk menentukan elemen HTML mana yang akan diber
    
 6. Universal Selector. Memilih semua elemen dalam dokumen. Menggunakan atribut '*'.
    
-   ![alt text](?raw=true)
+   ![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/selector%20universal%20(css).PNG?raw=true)
+
+### Colors
 
 ## JavaScript
 JavaScript adalah bahasa pemrograman yang sering digunakan untuk mengembangkan aplikasi web interaktif. Biasanya memberikan kemampuan untuk mengontrol perilaku halaman web, membuat efek animasi, memvalidasi input pengguna, berinteraksi dengan server. JavaScript sangat penting dalam pengembangan web modern karena memungkinkan pengalaman yang dinamis dan interaktif.
