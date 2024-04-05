@@ -52,7 +52,7 @@ Selector dalam CCS adalah cara untuk menentukan elemen HTML mana yang akan diber
 ### Colors
 Color dalam CSS, merujuk pada properti yang digunakan untuk menentukan warna teks di dalam sebuah elemen HTML. Properti ini biasanya untuk mengubah warna teks dari defaultnya (hitam) menjadi warna lain sesuai dengan preferensi desain kita. 
 
-![alt text](?raw=true)
+![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/colors%20(css).PNG?raw=true)
 
 ### Box Model 
 Box model dalam CSS menggambarkan cara browser menangani elemen HTML dengan memperhitungkan empat komponen utama :
