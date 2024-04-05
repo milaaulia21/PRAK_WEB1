@@ -23,6 +23,8 @@ Headings dalam HTML digunakan untuk memberikan struktur dan hierarki pada konten
 Horizontal rules dalam HTML digunakan untuk membuat garis horizontal yang memisahkan konten atau bagian-bagian tertentu dari halaman web. Garis Horizontal ini dapat digunakan untuk memberikan struktur visual pada halaman, memisahkan bagian-bagian konten, atau menandai transisi antara bagian-bagian yang berbeda. 
 Elemen yang digunakan untuk membuat horizontal rules adalah 'hr'.
 
+![alt text](?raw=true)
+
 ## CSS 
 CCS (Cascading Style Sheets) adalah bahasa yang digunakan untuk mengatur tampilan dan format dari elemen-elemen HTML di dalam sebuah halaman web. Memungkinkan pengembang web untuk mengontrol warna, font, ukuran, tata letak, dan berbagai aspek tampilan lainnya dari elemen-elemen HTML.
 
