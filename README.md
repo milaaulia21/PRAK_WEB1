@@ -9,7 +9,7 @@ Comment tag dalam HTML digunakan untuk menyisipkan komentar di dalam kode HTML. 
 Line break dalam HTML dalah cara untuk membuat teks atau konten HTML memulai baris baru menjadi beberapa baris terpisah. Line break biasanya digunakan dalam konteks seperti paragraf, teks dalam gambar, atau teks dalam elemen lain yang biasanya dianggap sebagai konten berjalan. 
 Untuk membuat line break, kita menggunakan tag 'br'. Tag 'br' tidak memiliki tag penutup karena itu adalah tag tunggal. 
 
-![alt text](?raw=true)
+![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/line%20break%20(html).PNG?raw=true)
 
 ### Tag 'a'
 Elemen 'a' dalam HTML digunakan untuk membuat tautan atau hyperlink ke halaman web lain, dokumen, atau sumber daya online lainnya menggunakan atribut 'href'. Dengan atribut tersebut, pengguna dapat mengklik teks atau gambar dan diarahkan ke URL yang ditentukan.
