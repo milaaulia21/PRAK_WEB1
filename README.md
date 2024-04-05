@@ -35,7 +35,7 @@ CCS (Cascading Style Sheets) adalah bahasa yang digunakan untuk mengatur tampila
 Selector dalam CCS adalah cara untuk menentukan elemen HTML mana yang akan diberi gaya dengan aturan tertentu. Dalam menggunakan selector, kita dapat menargetkan elemen individu, sekelompok elemen, atau bahkan semua elemen dalam dokumen HTML. Biasanya untuk mengatur tata letak, warna, ukuran, dan berbagai properti gaya lainnya untuk mengubah tampilan dan perilaku elemen-elemen di halaman web. Dapat menciptakan desain yang konsisten dan menarik untuk situs web kita. 
 1. Element Selector. Memilih elemen HTML berdasarkan nama elemennya. Menggunakan atribut 'p'.
 
-    ![alt text](?raw=true)
+    ![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/selector%20element%20(css).PNG?raw=true)
 
 2. Class Selector. Memilih elemen HTML berdasarkan kelasnya. Menggunakan atribut '.class'.
 
