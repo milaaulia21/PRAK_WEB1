@@ -77,5 +77,5 @@ Variabel dalam JavaScript adalah simbol yang digunakan untuk menyimpan data. Ada
    
 3. 'const' : Mendeklarasikan variabel yang nilainya tidak dapat diubah setelah diinisialisasi. Variabel yang dideklarasikan dengan 'const' harus diinisialisasi saat deklarasi dan nilai mereka tetap tidak berubah setelahnya.
 
-    ![alt text](?raw=true)
+    ![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/const%20(javascript).PNG?raw=true)
    
