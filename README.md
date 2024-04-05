@@ -11,8 +11,11 @@ Untuk membuat line break, kita menggunakan tag 'br'. Tag 'br' tidak memiliki tag
 
 ![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/line%20break%20(html).PNG?raw=true)
 
-### Tag 'a'
+### Links
 Elemen 'a' dalam HTML digunakan untuk membuat tautan atau hyperlink ke halaman web lain, dokumen, atau sumber daya online lainnya menggunakan atribut 'href'. Dengan atribut tersebut, pengguna dapat mengklik teks atau gambar dan diarahkan ke URL yang ditentukan.
+
+![alt text](?raw=true)
+
 ### Headings
 Headings dalam HTML digunakan untuk memberikan struktur dan hierarki pada konten sebuah halaman web. Ada enam level heading yang tersedia, dimulai dari h1 hingga h6. Dimana h1 adalah yang paling besar dan paling penting, sedangkan h6 adalah yang terkecil. 
 
