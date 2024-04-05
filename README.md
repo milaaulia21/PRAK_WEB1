@@ -12,7 +12,7 @@ Untuk membuat line break, kita menggunakan tag 'br'. Tag 'br' tidak memiliki tag
 Elemen 'a' dalam HTML digunakan untuk membuat tautan atau hyperlink ke halaman web lain, dokumen, atau sumber daya online lainnya menggunakan atribut 'href'. Dengan atribut tersebut, pengguna dapat mengklik teks atau gambar dan diarahkan ke URL yang ditentukan.
 ### Headings
 Headings dalam HTML digunakan untuk memberikan struktur dan hierarki pada konten sebuah halaman web. Ada enam level heading yang tersedia, dimulai dari h1 hingga h6. Dimana h1 adalah yang paling besar dan paling penting, sedangkan h6 adalah yang terkecil. 
-
+![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/headings%20(html).PNG?raw=true)
 1. h1 : Heading level 1 digunakan untuk judul halaman. Biasanya hanya ada satu h1 dalam satu halaman web dan itu mewakili judul halaman secara keseluruhan. 
 2. h2 : Heading level 2 digunakan untuk judul sub-seksi yang penting. Biasanya mengikuti h1 dan memberi struktur pada sub-bagian dari halaman web.
 3. h3 : Heading level 3 digunakan untuk sub-judul di bawah h2. Memberikan struktur lebih lanjut pada konten dan dapat digunakan untuk menyoroti bagian-bagian penting dari sub-seksi. 
