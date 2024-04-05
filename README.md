@@ -61,7 +61,7 @@ Box model dalam CSS menggambarkan cara browser menangani elemen HTML dengan memp
 3. Border (Batas) adalah garis yang mengelilingi konten dan padding dari elemen. Properti 'border' digunakan untuk menentukan lebar, warna, dan gaya garis. Batas bisa berupa garis solid, putus-putus, bergelombang, dan gaya lainnya.
 4. Margin adalah ruang di luar elemen yang memberikan jarak antara elemen tersebut dengan elemen-elemen lain disekitarnya. Properti 'margin' digunakan untuk mengatur ukuran margin. Margin tidak memiliki warna atau gaya, hanya memengaruhi ruang di luar elemen.
 
-![alt text](?raw=true)
+![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/box%20model%20(css).PNG?raw=true)
 
 ## JavaScript
 JavaScript adalah bahasa pemrograman yang sering digunakan untuk mengembangkan aplikasi web interaktif. Biasanya memberikan kemampuan untuk mengontrol perilaku halaman web, membuat efek animasi, memvalidasi input pengguna, berinteraksi dengan server. JavaScript sangat penting dalam pengembangan web modern karena memungkinkan pengalaman yang dinamis dan interaktif.
