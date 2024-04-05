@@ -33,16 +33,21 @@ Elemen yang digunakan untuk membuat horizontal rules adalah 'hr'.
 CCS (Cascading Style Sheets) adalah bahasa yang digunakan untuk mengatur tampilan dan format dari elemen-elemen HTML di dalam sebuah halaman web. Memungkinkan pengembang web untuk mengontrol warna, font, ukuran, tata letak, dan berbagai aspek tampilan lainnya dari elemen-elemen HTML.
 ### Selectors
 Selector dalam CCS adalah cara untuk menentukan elemen HTML mana yang akan diberi gaya dengan aturan tertentu. Dalam menggunakan selector, kita dapat menargetkan elemen individu, sekelompok elemen, atau bahkan semua elemen dalam dokumen HTML. Biasanya untuk mengatur tata letak, warna, ukuran, dan berbagai properti gaya lainnya untuk mengubah tampilan dan perilaku elemen-elemen di halaman web. Dapat menciptakan desain yang konsisten dan menarik untuk situs web kita. 
-1. Element Selector
-   Memilih elemen HTML berdasarkan nama elemennya. Menggunakan atribut 'p'.
+1. Element Selector. Memilih elemen HTML berdasarkan nama elemennya. Menggunakan atribut 'p'.
 
     ![alt text](?raw=true)
 
-2. Class Selector
+2. Class Selector. Memilih elemen HTML berdasarkan kelasnya. Menggunakan atribut '.class'.
+
+   ![alt text](?raw=true)
    
-4. Id Selector
-5. Universal Selector 
+4. Id Selector. Memilih elemen HTML berdasarkan ID-nya. Menggunakan atribut '#id'.
+
+   ![alt text](?raw=true)
    
+6. Universal Selector. Memilih semua elemen dalam dokumen. Menggunakan atribut '*'.
+   
+   ![alt text](?raw=true)
 
 ## JavaScript
 JavaScript adalah bahasa pemrograman yang sering digunakan untuk mengembangkan aplikasi web interaktif. Biasanya memberikan kemampuan untuk mengontrol perilaku halaman web, membuat efek animasi, memvalidasi input pengguna, berinteraksi dengan server. JavaScript sangat penting dalam pengembangan web modern karena memungkinkan pengalaman yang dinamis dan interaktif.
