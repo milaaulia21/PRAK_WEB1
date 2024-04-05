@@ -73,7 +73,7 @@ Variabel dalam JavaScript adalah simbol yang digunakan untuk menyimpan data. Ada
    
 2. 'let' : Memperkenalkan variabel yang dapat diinisialisasi ulang nilainya. Variabel yang dideklarasikan dengan 'let' memiliki lingkup blok yang hanya dapat diakses di dalam blok.
 
-    ![alt text](?raw=true)
+    ![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/let%20(javascript).PNG?raw=true)
    
 3. 'const' : Mendeklarasikan variabel yang nilainya tidak dapat diubah setelah diinisialisasi. Variabel yang dideklarasikan dengan 'const' harus diinisialisasi saat deklarasi dan nilai mereka tetap tidak berubah setelahnya.
 
