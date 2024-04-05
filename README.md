@@ -8,6 +8,9 @@ Comment tag dalam HTML digunakan untuk menyisipkan komentar di dalam kode HTML. 
 ### Line Break
 Line break dalam HTML dalah cara untuk membuat teks atau konten HTML memulai baris baru menjadi beberapa baris terpisah. Line break biasanya digunakan dalam konteks seperti paragraf, teks dalam gambar, atau teks dalam elemen lain yang biasanya dianggap sebagai konten berjalan. 
 Untuk membuat line break, kita menggunakan tag 'br'. Tag 'br' tidak memiliki tag penutup karena itu adalah tag tunggal. 
+
+![alt text](?raw=true)
+
 ### Tag 'a'
 Elemen 'a' dalam HTML digunakan untuk membuat tautan atau hyperlink ke halaman web lain, dokumen, atau sumber daya online lainnya menggunakan atribut 'href'. Dengan atribut tersebut, pengguna dapat mengklik teks atau gambar dan diarahkan ke URL yang ditentukan.
 ### Headings
@@ -23,7 +26,7 @@ Headings dalam HTML digunakan untuk memberikan struktur dan hierarki pada konten
 Horizontal rules dalam HTML digunakan untuk membuat garis horizontal yang memisahkan konten atau bagian-bagian tertentu dari halaman web. Garis Horizontal ini dapat digunakan untuk memberikan struktur visual pada halaman, memisahkan bagian-bagian konten, atau menandai transisi antara bagian-bagian yang berbeda. 
 Elemen yang digunakan untuk membuat horizontal rules adalah 'hr'.
 
-![alt text](?raw=true)
+![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/horizontal%20rules%20(html).PNG?raw=true)
 
 ## CSS 
 CCS (Cascading Style Sheets) adalah bahasa yang digunakan untuk mengatur tampilan dan format dari elemen-elemen HTML di dalam sebuah halaman web. Memungkinkan pengembang web untuk mengontrol warna, font, ukuran, tata letak, dan berbagai aspek tampilan lainnya dari elemen-elemen HTML.
