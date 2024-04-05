@@ -43,7 +43,7 @@ Selector dalam CCS adalah cara untuk menentukan elemen HTML mana yang akan diber
    
 4. Id Selector. Memilih elemen HTML berdasarkan ID-nya. Menggunakan atribut '#id'.
 
-   ![alt text](?raw=true)
+   ![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/selector%20id%20(css).PNG?raw=true)
    
 6. Universal Selector. Memilih semua elemen dalam dokumen. Menggunakan atribut '*'.
    
