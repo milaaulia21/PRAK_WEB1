@@ -39,7 +39,7 @@ Selector dalam CCS adalah cara untuk menentukan elemen HTML mana yang akan diber
 
 2. Class Selector. Memilih elemen HTML berdasarkan kelasnya. Menggunakan atribut '.class'.
 
-   ![alt text](?raw=true)
+   ![alt text](https://github.com/milaaulia21/PRAK_WEB1/blob/main/images/selector%20class%20(css).PNG?raw=true)
    
 4. Id Selector. Memilih elemen HTML berdasarkan ID-nya. Menggunakan atribut '#id'.
 
